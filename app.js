@@ -12,7 +12,7 @@ function sum(a, b) { //eslint-disable-line
     let result=a+b;
     return[result, 'The sum of '+a+' and '+b+' is '+ result+'.']
 }
-console.log(sum(4,7));
+// console.log(sum(4,7));
 // Here is the test for sum(); uncomment it to run it
  testSum(4, 7);
 
